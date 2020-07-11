@@ -1,8 +1,11 @@
 ### Hi there 👋 I am Nilima Chavan
 
  🔭 I’m currently working as Associate Cloud Engineer at Celebal technology.
- 🌱 I’m currently learning Azure Cloud, Python, Terraform.
- 👯 I’m looking to collaborate on Cloud projects.
+ 
+ 🌱 I’m currently learning Azure Cloud, Python, Terraform.  
+ 
+ 👯 I’m looking to collaborate on Cloud projects.     
+ 
  📫 How to reach me: sanchitac067@gmail.com
 
 <!--
