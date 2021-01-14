@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Nilima Chavan
 
- 🔭 I’m currently working as Associate Cloud Engineer at Celebal technology.
+ 🔭 I’m currently working as R & D Engineer at ESDS Software Solutions.
  
  🌱 I’m currently learning Azure Cloud, Python, Terraform.  
  
