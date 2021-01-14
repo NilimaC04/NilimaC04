@@ -1,5 +1,15 @@
 ### Hi there 👋 I am Nilima Chavan
 
+<a href="https://twitter.com/nilimac04">
+  <img align="left" alt="Nilima Chavan | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/nilima-chavan-a8b848119">
+  <img align="left" alt="Nilima's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="https://sanchitac067.wordpress.com/author/sanchitac067/">
+  <img align="left" alt="Nilima's Wordpress" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Wordpress-Logo.svg/500px-Wordpress-Logo.svg.png" />
+</a>
+
  🔭 I’m currently working as R & D Engineer at ESDS Software Solutions.
  
  🌱 I’m currently learning Azure Cloud, Python, Terraform.  
