@@ -10,6 +10,8 @@
   <img align="left" alt="Nilima's Wordpress" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Wordpress-Logo.svg/500px-Wordpress-Logo.svg.png" />
 </a>
 
+<br/>
+
  🔭 I’m currently working as R & D Engineer at ESDS Software Solutions.
  
  🌱 I’m currently learning Azure Cloud, Python, Terraform.  
