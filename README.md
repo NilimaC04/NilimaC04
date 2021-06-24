@@ -12,9 +12,10 @@
 
 <br/>
 
+
  🔭 I’m currently working as R & D Engineer at ESDS Software Solutions.
  
- 🌱 I’m currently learning Azure Cloud, Python, Terraform.  
+ 🌱 I’m currently learning Cloud native techs, Python, Terraform.  
  
  👯 I’m looking to collaborate on Cloud projects.     
  
