@@ -8,7 +8,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 😄 Pronouns: she/her \
-💡 &nbsp; I’m currently working as DevOps Engineer at ESDS Software Solution, working on various products using K8s,Docker,Jenkins,Ansible... \
+💡 &nbsp; I’m a in my final year of graduation and currently working as DevOps Engineer at ESDS Software Solution, working on various products using K8s,Docker,Jenkins,Ansible... \
 💻 &nbsp;I'm working on cloud native technologies.\
 <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="25" />&nbsp;I'm on track for imporving my programming skill sets and exploring cloud technologies...\
 ✍️ &nbsp;In my free time, I do sketching, singing and arts/crafts as my hobbies.\
