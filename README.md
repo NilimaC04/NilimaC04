@@ -14,10 +14,10 @@
 ✍️ &nbsp;In my free time, I do sketching, singing and arts/crafts as my hobbies.\
 ✍️ &nbsp; [Mozilla L10n](https://pontoon.mozilla.org/contributors/5_tP30mYyr--BvF_jG_ttwGLPxU/) Contributor for Marathi Language.
 
-📄 &nbsp;You can check my [Blogs](https://nilimachavan.medium.com/)
-📄 &nbsp;You can check my [Blogs](https://sanchitac067.wordpress.com/author/sanchitac067/)
-<img align='right' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='200"'> \
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: I strongly believe in the Chaos theory: Even in unpredictable environments with seemingly random oddities and irregularities lies a predictable & sensible pattern not seen initially.
+📄 &nbsp;You can check my [medium](https://nilimachavan.medium.com/) &nbsp;[wordpress](https://sanchitac067.wordpress.com/author/sanchitac067/) 
+
+
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: I strongly believe in the Chaos theory: Even in unpredictable environments with seemingly random oddities and irregularities lies a predictable & sensible pattern not seen initially. \
 
 ### 🛠 &nbsp;Tech Stack
 
